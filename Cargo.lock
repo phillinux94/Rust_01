@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Rust_01"
+name = "Jeu_du_plus_ou_du_moins "
 version = "0.1.0"
